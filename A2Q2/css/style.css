@@ -1,0 +1,56 @@
+.formRow{
+    background-color:aliceblue;
+    border-radius: 20px;    
+    padding:30px;
+    margin: 20px 50px;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    color:blue;
+}
+
+.table-header{
+    font-weight: bold;
+    font-size: large;   
+}
+
+
+
+label{
+    font-size: large;
+    font-weight: bold;
+    color:darkblue;
+}
+
+
+input{
+    font-size: large;
+    font-weight: bold;
+    color:darkblue;
+    width: 100%;
+}
+
+input[type='submit'],input[type='reset']{
+    width: 20%;
+    text-align: center;
+    margin-top: 20px;
+}
+img{
+    width:150px;
+    height:150px;
+}
+
+tr .head{
+    font-weight: bold;
+}
+
+
+.carousel-item img{
+    height:80vh;
+}
+
+.card img{
+    height:auto;
+}
