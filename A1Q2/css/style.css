@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+    color:blue;
+    font-weight: bold;
+    margin:10px;
+}
+.row .calc{
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+.form input[type='text']{
+    margin : 10px;
+    padding : 10px;
+}
+.form input[type='submit']{
+    padding :20px;
+    margin : 10px;
+}

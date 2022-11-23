@@ -1,0 +1,48 @@
+.formRow{
+    background-color:aliceblue;
+    border-radius: 20px;    
+    padding:30px;
+    margin: 20px 50px;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    color:blue;
+}
+
+.table-header{
+    font-weight: bold;
+    font-size: large;   
+}
+
+
+
+label{
+    font-size: large;
+    font-weight: bold;
+    color:darkblue;
+}
+
+
+input{
+    font-size: large;
+    font-weight: bold;
+    color:darkblue;
+    width: 100%;
+}
+
+input[type='submit'],input[type='reset']{
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+}
+
+img{
+    width:400px;
+    height:400px;
+}
+
+tr .head{
+    font-weight: bold;
+}
